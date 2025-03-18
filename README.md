@@ -62,7 +62,7 @@ SQL -
 
 ## Education
 IIT Delhi (2015): 
-Bachelor of Technologu - B.Tech, Chemical Engineering
+Bachelor of Technology - B.Tech, Chemical Engineering
 
 
 

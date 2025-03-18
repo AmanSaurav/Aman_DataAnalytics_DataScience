@@ -58,3 +58,14 @@ SQL -
 
 ## Misc -
 - [Sales and CRM Overview](https://www.coursera.org/account/accomplishments/verify/CW1I63QOVK5L)
+
+
+## Education
+IIT Delhi (2015): 
+Bachelor of Technologu - B.Tech, Chemical Engineering
+
+
+
+## Contacts
+- LinkedIn: [@amansaurav](https://www.linkedin.com/in/amansaurav/)
+- Email: amansaurav@live.com
